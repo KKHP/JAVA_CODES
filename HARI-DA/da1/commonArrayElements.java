@@ -18,13 +18,13 @@ class commonArrayElements {
         for(int i=0;i<n;i++){
             a[i]=sc.next();
         }
-        System.out.println("Enter "+ m +" elements for 2nd array");
-        for(int i=0;i<m;i++){
+        System.out.println("Enter "+ n +" elements for 2nd array");
+        for(int i=0;i<n;i++){
             b[i]= sc.next();
 
         }
 
-        FindCommonElementsInArray(a,b, a.length);
+        FindCommonElementsInArray(a,b,n);
         sc.close();
 
 
@@ -36,7 +36,7 @@ class commonArrayElements {
             for(int j=0;j<n;j++){
                 if(a[i].equals(b[j])) {
                     System.out.println(b[j]);
-                    break;
+
                 }
 
             }
