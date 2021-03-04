@@ -171,7 +171,7 @@ get the sum of the given digits. Derive the base class to a subclass quadratic, 
 the real and imaginary solutions for the given quadratic equation by overriding the
 method calculate(). Again derive the base class number , to another subclass called
 sos , to find the sum of square of the given number by overriding the method
-calculate(). 
+calculate(). [click to view solution](https://github.com/KKHP/java_codes/blob/main/HARI-DA/da3/calculateOveride.java)
 
 ---
 
