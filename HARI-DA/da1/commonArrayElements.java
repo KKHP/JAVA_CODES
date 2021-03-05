@@ -1,3 +1,4 @@
+//question 1
 import java.util.Scanner;
 
 class commonArrayElements {
