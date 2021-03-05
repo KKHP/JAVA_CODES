@@ -4,8 +4,10 @@
 ### [assignment 1](https://github.com/KKHP/java_codes/tree/main/HARI-DA/da1)
 1) Write a program to identify common elements or numbers between two given
 arrays. You should not use any inbuilt methods are list to find common values.
+[click to view code](https://github.com/KKHP/java_codes/blob/main/HARI-DA/da1/commonArrayElements.java)
 ---
 2) Find out the duplicate number in an array and display the resultant array.
+[click here to view code](https://github.com/KKHP/java_codes/blob/main/HARI-DA/da1/duplicateInArray.java)
 ---
 3) Develop a program to simulate a Simple Banking System in which the initial
 balance and the rate of interest are read from the keyboard and these values are
@@ -17,7 +19,7 @@ interest.
 b) To find the compound interest. The Formula to find the compound interest is given
 below
 c) To calculate the simple interest and display the balance amount
-
+[click to view code](https://github.com/KKHP/java_codes/blob/main/HARI-DA/da1/bankApplication.java)
 ---
 
 4) Research several car-pooling websites: 
@@ -37,7 +39,7 @@ e)Tolls per day.
 constructors to initialize the data members (i.e. default, normal, and through object
 initialization).Provide methods which returns object of the complex class as the result
 for addition, subtraction, multiplication of two complex numbers.
-
+[click here to view code](https://github.com/KKHP/java_codes/blob/main/HARI-DA/da1/complexClass.java)
 ---
 
 6. Write a program to maintain the office database using single inheritance. Super
